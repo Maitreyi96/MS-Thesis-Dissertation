@@ -1,5 +1,5 @@
 # MS-Thesis-Dissertation
-Master's Thesis Dissertation Code 
+
 
 Chronic disease patients have to face many issues during and after their treatment. A lot of these issues are either personal, professional, or social in nature. It may so happen that these issues are overlooked by the respective healthcare providers and become major obstacles in the patient’s day-to-day life and their disease management.
 
